@@ -34,7 +34,9 @@ $ npm run pkg
 ```
 双击exe文件即可启动服务
 
- 在前端页面：https://gitxieada.github.io/Demo/webrtc/index.html#/signal，输入信令服务器的地址signalServer，默认'ws://ip地址:5000'；注意在电脑测试时需要填 ws://localhost:5000
+ 在前端页面：https://gitxieada.github.io/Demo/webrtc/index.html#/signal，
+ 输入信令服务器的地址signalServer，默认'ws://ip地址:5000'；
+ 注意在电脑测试时需要填 ws://localhost:5000
 
- 前端代码在https://github.com/Gitxieada/Demo/tree/master/webrtc，可以下载下来在本地部署
+ 前端代码在https://github.com/Gitxieada/Demo/tree/master/webrtc， 可以下载下来在本地部署
  
