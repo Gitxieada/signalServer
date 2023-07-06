@@ -13,6 +13,8 @@
 
 后端使用express、socket.io提供信令服务
 
+server.exe已上传到releases https://github.com/Gitxieada/signalServer/releases
+
 ## Install dependencies
 
 ```bash
